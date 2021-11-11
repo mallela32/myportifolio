@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Mallela Nitheesh || portifolio
+    </title>
+    <link rel="icon" href="img/favicon.ico">
+      <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Lora:ital@1&family=Playfair+Display&family=Ubuntu&family=Zen+Antique&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Zen+Antique&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header class="header_section">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li><h1 class="top-section-title">Mallela Nitheesh portifolio</h1></li>
+          <li class="nav-list-elements"><a class="nav-link" href="#home">Home</a></li>
+          <li class="nav-list-elements"><a class="nav-link" href="#aboutme">Skills</a></li>
+          <li class="nav-list-elements"><a class="nav-link" href="#aboutme">Courses</a></li>
+          <li class="nav-list-elements"><a class="nav-link" href="#contact-me">Contactme</a></li>
+        </ul>
+      </nav>
+    </header>
+      <section class="container-top" id="home">
+        <img class="profilepic" src="img/img1.jpg" alt="My Image">
+        <div class="top-details">
+          <h1 class="h1_top">Mallela Nitheesh</h1>
+          <h2 class="h2_top">A Web Developer</h2>
+        </div>
+      </div>
+    </section>
+
+
+    <section id="aboutme"class="middle-container">
+      <div class="skills">
+        <ul>
+          <h3>Skills</h3>
+          <li class="list-elements">Web Developer</li>
+          <li class="list-elements">Java developer</li>
+        </ul>
+      </div>
+      <div class="courses">
+        <ul>
+          <h3>Courses</h3>
+          <li class="list-elements">Front End Devement</li>
+          <li class="list-elements">Java</li>
+        </ul>
+      </div>
+      <div class="projects">
+        <ul>
+          <h3 >Projects</h3>
+          <li class="list-elements">Created a portifolio website</li>
+          <li class="list-elements">To Do List</li>
+        </ul>
+      </div>
+    </section>
+    <footer>
+      <section id="contact-me">
+    <div class="bottom-container">
+      <h4>Contact me :</h4>
+      <div class="contact-me-twitter">
+        <img class="twitter" src="img/twitter.png" alt=""><br>
+        <a class="bottom_link"href="https://twitter.com/home?lang=en" target="_blank">@Nitheeshmallel1</a>
+      </div>
+      <div class="contact-me-insta">
+        <img class="insta" src="img/instagram.png" alt=""><br>
+        <a class="bottom_link"href="https://www.instagram.com/nitheesh_chowdary_/?hl=en" target="_blank">nitheesh_chowdary</a>
+      </div>
+      <div class="contact-me-gmail">
+        <img class="gmail" src="img/gmail.png" alt=""><br>
+          <a class="bottom_link" href="mailto:mnc9505@gmail.com">@mnc9505</a>
+      </div>
+      <div class="contact-me-linkedin">
+        <img class="linkedin"src="img/linkedin.png" alt=""><br>
+        <a class="bottom_link"href="https://linkedin.com/in/mallela-nitheesh-69357a181" target="_blank">@mallela_32</a>
+      </div>
+    </div>
+  </section>
+    </footer>
+  </body>
